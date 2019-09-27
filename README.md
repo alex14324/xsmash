@@ -23,19 +23,19 @@ X-Smash Is a Priv8 Facebook HackBox ...
 *For Debien Based Systems*
 ```
 $ sudo apt-get install git
-$ git clone https://github.com/m4rktn/xsmash && cd xsmash
+$ git clone https://github.com/alex14324/xsmash && cd xsmash
 $ python2 xsmash.py
 ```
 *For Termux*
 ```
 $ apt-get install python2 git
-$ git clone https://github.com/m4rktn/xsmash && cd xsmash
+$ git clone https://github.com/alex14324/xsmash && cd xsmash
 $ python2 xsmash.py
 ```
 *For Windows*
 ```
 1) Install Python2.7 From https://www.python.org/downloads/
-2) Go To https://github.com/m4rktn/xsmash And Download In ".zip" Format
+2) Go To https://github.com/alex14324/xsmash And Download In ".zip" Format
 3) Extract xsmash-master.zip 
 4) Just Click In Xsmash.py 
   Ps : Go To Youtube And See How To run Python 2.7
